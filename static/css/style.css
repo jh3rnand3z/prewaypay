@@ -572,7 +572,7 @@ input.sp-selector-5:checked ~ .sp-content .sp-slider > li:nth-child(5){
 }
 .menu-li:hover {
   border-top-style: none;
-  background-color: #92c655;
+  background-color: #54b848;
   color: white;
   font-weight: 700;
 }
@@ -1041,7 +1041,7 @@ box-shadow: 5px 5px 0px #20AE61;
   background-attachment: scroll;
 }
 .parlex6-back {
-  background-color: rgba(146, 198, 85, 1);
+  background-color: rgba(84, 184, 72, 1);
   -webkit-box-shadow: inset 0px -0px 0px 0px rgba(0, 0, 0, 0);  
   box-shadow: inset 0px -1px 0px 0px rgba(0, 0, 0, 0);
 }
