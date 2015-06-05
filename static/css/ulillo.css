@@ -34,17 +34,17 @@
   font-size: 20px;
   line-height: 3px;
   font-weight: 900;
-  text-align: justify;
+  text-align: center;
 
 }
 
 .ulillo-processing-letras-iniciales {
-  color: #939292;
+  color: #595959;
   margin-top: 20px;
   margin-bottom: 20px;
   font-size: 16px;
   line-height: 25px;
-  text-align: center;
+  text-align: justify;
 
   }
 
@@ -54,15 +54,25 @@
   margin-bottom: 20px;
   font-size: 16px;
   line-height: 25px;
-  text-align: center;
+  text-align: justify;
 
     }
 
 .ulillo-processing-letras-iniciales1 {
-  color: #939292;
+  color: #595959;
   margin-top: 20px;
   margin-bottom: 20px;
   font-size: 16px;
   line-height: 25px;
   text-align: justify;
 
+
+    }
+
+.ulillo-aml {
+  color: #595959;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 14px;
+  line-height: 25px;
+  text-align: justify;
