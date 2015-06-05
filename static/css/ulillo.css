@@ -9,21 +9,21 @@
 }
 
 .ulillo-about {
-    margin: 10px 0px;
+    
     font-size: 18px;
-    line-height: 30px;
+    line-height: 20px;
     font-weight: 700;
+    text-align: justify;
     color:#ebebeb;
 }
 
 .ulillo-terms {
-  margin-top: 20px;
-  margin-bottom: 20px;
+
   color: white;
   font-size: 16px;
   line-height: 25px;
-  text-align: center;
-  color:#ebebeb;
+  text-align: justify;
+  
 
 }
 
@@ -34,7 +34,7 @@
   font-size: 20px;
   line-height: 3px;
   font-weight: 900;
-  text-align: center;
+  text-align: justify;
 
 }
 
@@ -58,4 +58,11 @@
 
     }
 
+.ulillo-processing-letras-iniciales1 {
+  color: #939292;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 16px;
+  line-height: 25px;
+  text-align: justify;
 

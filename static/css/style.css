@@ -17,7 +17,7 @@ body {
   background: #f1f0ef;
 }
 h1 {
-  margin: 10px 0px;
+  margin: 10px 10px;
   font-size: 40px;
   line-height: 45px;
   font-weight: 700;
@@ -25,13 +25,13 @@ h1 {
   color: #939292;
 }
 h2 {
-  margin: 10px 0px;
+  margin: 10px 10px;
   font-size: 32px;
   line-height: 36px;
   font-weight: 700;
 }
 h3 {
-  margin: 10px 0px;
+  margin: 10px 10px;
   font-size: 18px;
   line-height: 30px;
   font-weight: 700;
@@ -39,7 +39,7 @@ h3 {
   text-align: center;
 }
 h4 {
-  margin: 0px 0px 10px;
+  margin: 10px 10px;
   padding-top: 5px;
   color: #939292;
   font-size: 20px;
@@ -55,7 +55,7 @@ h5 {
   text-align: center;
 }
 h6 {
-  margin: 10px 0px;
+  margin: 10px 10px;
   font-size: 12px;
   line-height: 18px;
   font-weight: 700;
@@ -63,7 +63,7 @@ h6 {
 p {
   margin-bottom: 5px;
   color: #939292;
-  text-align: left;
+  text-align: center;
 }
 .button {
   display: inline-block;
